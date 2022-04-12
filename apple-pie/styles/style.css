@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-image: url(/apple-pie/images/apple-pie.jpg);
+    background-image: url(../apple-pie/images/apple-pie.jpg);
     background-position: 0 0;
     background-size: cover;
     background-repeat: no-repeat;
